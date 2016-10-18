@@ -3,7 +3,7 @@
   
     {
       "title"			: "MathJax Example",
-      "link"			: "http://localhost:4000/blog/mathjax-example/",
+      "link"			: "http://colbylemon.github.io/blog/mathjax-example/",
       "excerpt"		: "MathJax is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics  ... , and the other for inline mathematics  ... ."
     }
   
@@ -11,7 +11,7 @@
   
     ,{
       "title"			: "Hello World",
-      "link"			: "http://localhost:4000/blog/hello-world/",
+      "link"			: "http://colbylemon.github.io/blog/hello-world/",
       "excerpt"		: "You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext."
     }
   
@@ -19,7 +19,7 @@
   
     ,{
       "title"			: "A Post with Images",
-      "link"			: "http://localhost:4000/articles/sample-post-images/",
+      "link"			: "http://colbylemon.github.io/articles/sample-post-images/",
       "excerpt"		: "Examples and code for displaying images in posts."
     }
   
@@ -41,7 +41,7 @@
   
     ,{
       "title"			: "Theme Setup",
-      "link"			: "http://localhost:4000/theme-setup/",
+      "link"			: "http://colbylemon.github.io/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
   
@@ -49,7 +49,7 @@
   
     ,{
       "title"			: "About",
-      "link"			: "http://localhost:4000/about/",
+      "link"			: "http://colbylemon.github.io/about/",
       "excerpt"		: "About this site."
     }
   
