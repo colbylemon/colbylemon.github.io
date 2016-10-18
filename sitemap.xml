@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://colbylemon.github.io/</loc>
+<loc>http://lemonlab.net/</loc>
 </url>
 <url>
-<loc>https://colbylemon.github.io/blog/</loc>
+<loc>http://lemonlab.net/blog/</loc>
 </url>
 <url>
-<loc>https://colbylemon.github.io/fortran/</loc>
+<loc>http://lemonlab.net/fortran/</loc>
 </url>
 <url>
-<loc>https://colbylemon.github.io/junk/</loc>
+<loc>http://lemonlab.net/junk/</loc>
 </url>
 <url>
-<loc>https://colbylemon.github.io/tags/</loc>
+<loc>http://lemonlab.net/tags/</loc>
 </url>
 <url>
-<loc>https://colbylemon.github.io/theme-setup/</loc>
+<loc>http://lemonlab.net/about/</loc>
 </url>
 <url>
-<loc>https://colbylemon.github.io/about/</loc>
-</url>
-<url>
-<loc>https://colbylemon.github.io/articles/</loc>
+<loc>http://lemonlab.net/articles/</loc>
 </url>
 </urlset>
