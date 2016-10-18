@@ -5,14 +5,14 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Blog &#8211; </title>
-<meta name="description" content="An archive of blog posts sorted by date.">
+<title>FORTRAN to Fortran &#8211; </title>
+<meta name="description" content="Fortran conversion program">
 
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Blog">
-<meta name="twitter:description" content="An archive of blog posts sorted by date.">
+<meta name="twitter:title" content="FORTRAN to Fortran">
+<meta name="twitter:description" content="Fortran conversion program">
 
 
 
@@ -22,16 +22,16 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Blog">
-<meta property="og:description" content="An archive of blog posts sorted by date.">
-<meta property="og:url" content="https://colbylemon.github.io/blog/">
+<meta property="og:title" content="FORTRAN to Fortran">
+<meta property="og:description" content="Fortran conversion program">
+<meta property="og:url" content="https://colbylemon.github.io/fortran/">
 <meta property="og:site_name" content="">
 
 
 
 
 
-<link rel="canonical" href="https://colbylemon.github.io/blog/">
+<link rel="canonical" href="https://colbylemon.github.io/fortran/">
 <link href="https://colbylemon.github.io/feed.xml" type="application/atom+xml" rel="alternate" title=" Feed">
 
 <!-- https://t.co/dKP3o1e -->
@@ -119,16 +119,23 @@
     
     <div class="entry-wrapper">
       <header class="entry-header">
-        <h1 class="entry-title">Blog</h1>
+        <h1 class="entry-title">FORTRAN to Fortran</h1>
       </header>
       <div class="entry-content">
-        <ul class="post-list">
- 
-  <li><article><a href="https://colbylemon.github.io/blog/mathjax-example/">MathJax Example <span class="entry-date"><time datetime="2015-08-10T05:08:50-07:00">August 10, 2015</time></span> <span class="excerpt">MathJax is a simple way of including Tex/LaTex/MathML based mathematics in HTML webpages. To get up and running you need to include the MathJax script in the header of your github pages page, and then write some maths. For LaTex, there are two delimiters you need to know about, one for block or displayed mathematics , and the other for inline mathematics .</span></a></article></li>
- 
-  <li><article><a href="https://colbylemon.github.io/blog/hello-world/">Hello World <span class="entry-date"><time datetime="2014-08-08T12:39:55-07:00">August 08, 2014</time></span> <span class="excerpt">You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext.</span></a></article></li>
+        <p>f2f is a <a href="http://en.wikipedia.org/wiki/Perl">Perl</a> script which does much of the tedious work of converting FORTRAN 77 source code into modern <a href="http://en.wikipedia.org/wiki/Fortran">Fortran</a>. There seems to be a lot of Fortran hate in the world, and I think this comes from people who have been forced to use FORTRAN 77 at some time or another. Hopefully, this program will make you a less hateful person.</p>
 
-</ul>
+<p>Download <a href="http://bitbucket.org/lemonlab/f2f/downloads">f2f</a>.</p>
+
+<h2 id="usage">USAGE:</h2>
+<div class="language-shell highlighter-rouge"><pre class="highlight"><code><span class="gp">&gt; </span>f2f <span class="o">[</span>inputfile <span class="o">[</span>outputfile]]
+</code></pre>
+</div>
+<p>e.g.:</p>
+<div class="language-shell highlighter-rouge"><pre class="highlight"><code><span class="gp">&gt; </span>f2f legacycode.f legacycode.f90
+</code></pre>
+</div>
+
+<p>I wrote this program for my own needs, a long time ago, and I have successfully used it many times. It has generally worked well for me with standard FORTRAN 77 source code, but can sometimes give problems on mixed 77/90 code. I can’t guarantee it will spit out code that suits your aesthetic tastes, nor can I guarantee that it will generate code that compiles (you may need to make an edit or two first). In some cases it can generate really wacky code, especially if you feed it really wacky code. So I make no guarantees, but hopefully it makes your life easier rather than harder.</p>
 
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
