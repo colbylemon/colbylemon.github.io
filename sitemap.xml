@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://lemonlab.net/blog/julia-matlab-numpy/</loc>
+<loc>https://colbylemon.github.io/blog/julia-matlab-numpy/</loc>
 <lastmod>2016-10-19T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>https://lemonlab.net/</loc>
+<loc>https://colbylemon.github.io/</loc>
 </url>
 <url>
-<loc>https://lemonlab.net/blog/</loc>
+<loc>https://colbylemon.github.io/blog/</loc>
 </url>
 <url>
-<loc>https://lemonlab.net/fortran/</loc>
+<loc>https://colbylemon.github.io/fortran/</loc>
 </url>
 <url>
-<loc>https://lemonlab.net/junk/</loc>
+<loc>https://colbylemon.github.io/junk/</loc>
 </url>
 <url>
-<loc>https://lemonlab.net/tags/</loc>
+<loc>https://colbylemon.github.io/tags/</loc>
 </url>
 <url>
-<loc>https://lemonlab.net/about/</loc>
+<loc>https://colbylemon.github.io/about/</loc>
 </url>
 <url>
-<loc>https://lemonlab.net/articles/</loc>
+<loc>https://colbylemon.github.io/articles/</loc>
 </url>
 </urlset>

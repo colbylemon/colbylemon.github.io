@@ -3,7 +3,7 @@
   
     {
       "title"			: "Julia, MATLAB, Numpy Cheat Sheet",
-      "link"			: "https://lemonlab.net/blog/julia-matlab-numpy/",
+      "link"			: "https://colbylemon.github.io/blog/julia-matlab-numpy/",
       "excerpt"		: "I mostly use Python for my data analysis, but I’ve been playing around with Julia some, and I find these kinds of side-by-side comparisons to be quite valuable!"
     }
   
@@ -19,7 +19,7 @@
   
     ,{
       "title"			: "FORTRAN to Fortran",
-      "link"			: "https://lemonlab.net/fortran/",
+      "link"			: "https://colbylemon.github.io/fortran/",
       "excerpt"		: "Fortran conversion program"
     }
   
@@ -33,7 +33,7 @@
   
     ,{
       "title"			: "About",
-      "link"			: "https://lemonlab.net/about/",
+      "link"			: "https://colbylemon.github.io/about/",
       "excerpt"		: "About this site."
     }
   
