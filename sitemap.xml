@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://lemonlab.net/blog/julia-matlab-numpy/</loc>
+<loc>http://lemonlab.net/blog/julia-matlab-numpy/</loc>
 <lastmod>2016-10-19T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>https://lemonlab.net/</loc>
+<loc>http://lemonlab.net/</loc>
 </url>
 <url>
-<loc>https://lemonlab.net/blog/</loc>
+<loc>http://lemonlab.net/blog/</loc>
 </url>
 <url>
-<loc>https://lemonlab.net/fortran/</loc>
+<loc>http://lemonlab.net/fortran/</loc>
 </url>
 <url>
-<loc>https://lemonlab.net/junk/</loc>
+<loc>http://lemonlab.net/junk/</loc>
 </url>
 <url>
-<loc>https://lemonlab.net/tags/</loc>
+<loc>http://lemonlab.net/tags/</loc>
 </url>
 <url>
-<loc>https://lemonlab.net/about/</loc>
+<loc>http://lemonlab.net/about/</loc>
 </url>
 <url>
-<loc>https://lemonlab.net/articles/</loc>
+<loc>http://lemonlab.net/articles/</loc>
 </url>
 </urlset>
